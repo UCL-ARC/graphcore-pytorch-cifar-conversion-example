@@ -1,1 +1,6 @@
 data/*
+pytorch-cifar-ipu.py
+pytorch-cifar-cpu.py
+cpu_tp_ipu_changes.diff
+times_ipu_deviter10.json
+cifar_net_graphcore.pth
