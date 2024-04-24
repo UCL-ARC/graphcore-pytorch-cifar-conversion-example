@@ -5,4 +5,4 @@
 
 As Moore's Law fails and an increasing variety of machine learing accelerators become available, students and pracitioners of machine learning will need to become familiar with these technologies to inform their decisions about which platforms to use. 
 
-Registration is required due to limited places and to arrange access to the machine. (Attendees will need to have a UCL ID already.)
+Registration is required due to limited places and to arrange access to the machine and test that beforehand. (Attendees will need to have a UCL ID already.) 
