@@ -6,3 +6,6 @@ times_ipu_deviter*.json
 cifar_net_graphcore.pth
 .vscode/launch.json
 token.txt
+.vscode/*
+testenv/*
+
