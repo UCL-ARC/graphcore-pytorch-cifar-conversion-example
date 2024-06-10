@@ -5,14 +5,14 @@
 
 ## At the workshop
 1. Confirm access (ssh/vscode, and group membership for any common objects)
-2. Build requirements.txt or link to common environment (TODO create the python environment)
-3. Clone the repo 
-4. Check can view a python notebook (vscode or pycharm or webrowser - will each user need a different port number)
-5. Activate Graphcore software
-6. Show gc-monitor
+2. Clone the repo 
+3. Activate Graphcore software
+4. Build python environment from local .whl, etc.
+5. Show gc-monitor
+6. Check can view a python notebook (vscode or desktop@UCL) 
 7. Show original on Pytorch website
-8. Work through the steps of a cpu pytorch version - filling in blanks (TODO make blanks)
-9. Rerun notebook to get progress graph
+8. Work through the steps of a cpu pytorch version 
+9. Rerun notebook to get accurate progress graph
 10. Explain accelerator structure and operation
 10. Show Pytorch to Poptorch instructions
 11. Copy notebook - student's or model
