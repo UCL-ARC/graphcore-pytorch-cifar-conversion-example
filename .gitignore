@@ -3,6 +3,11 @@ pytorch-cifar-ipu.py
 pytorch-cifar-cpu.py
 cpu_tp_ipu_changes.diff
 times_ipu_deviter*.json
+times_cpu.json
+times_ipu.json
+workshop/times_ipu_deviter*.json
+workshop/times_cpu.json
+workshop/times_ipu.json
 *.pth
 .vscode/launch.json
 token.txt
@@ -10,3 +15,4 @@ token.txt
 testenv/*
 graphcoreenv/*
 workshop/data/*
+
